@@ -9,7 +9,7 @@ return(
  <span className="border-[3px] border-solid border-black text-center inline-block">
        <h1 className="text-2xl">Welcome Back</h1>
  <label><b>Username</b></label>
-    <input type="text" placeholder="Enter Username" required/><br/> 
+    <input type="text" className="border-2 border-gray-200" placeholder="Enter Username" required/><br/> 
 
     <label><b>Password</b></label>
     <input type="password" placeholder="Enter Password" required/><br/>
